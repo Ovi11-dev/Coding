@@ -1,6 +1,3 @@
-node_modules/**/*
-dist
-dist/src
-dist/src
-dist/src/*
-dist/**/*
+out/
+target/
+.idea/
