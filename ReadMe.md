@@ -28,8 +28,9 @@
   - Java: `import java.io.IOException;`,
   - Perl: `use strict; use warnings; use feature qw/ say /;`,
   - COBOL: `PROCEDURE DIVISION.`,
-  - and Lisp: `(defun something)`!
-
+  - Lisp: `(defun something)`,
+  - SVG: `<svg viewBox="number number number number"></svg>`,
+  - and Mongoose: `const mongoose = require('mongoose');`!
 - - -
 
 # That's it for now!
