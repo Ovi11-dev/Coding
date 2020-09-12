@@ -145,7 +145,7 @@ Create a js file named **main.js** on your machine (Windows or Linux) having the
 
 Now execute main.js file using Node.js interpreter to see the result −
 
-```bash
+```powershell
    $ node main.js
 ```
 
