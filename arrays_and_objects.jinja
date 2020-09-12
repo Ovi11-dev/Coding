@@ -1,0 +1,9 @@
+# Arrays
+{% set navigation = ['Home', 'About'] %}
+{% do navigation.append('Contact Us') %}
+{{navigation}}
+
+# Objects
+{% set book = {'name' : 'Rocking HubL', 'author' : 'John Smith' }%}
+{% do book.update({'ebook' : 'yes'}) %}
+{{book}}
