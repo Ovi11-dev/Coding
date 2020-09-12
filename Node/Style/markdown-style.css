@@ -1,0 +1,15 @@
+:root {
+   --primary-color: #FFFFFF;
+   --img-background: #FF69B4;
+}
+
+body {
+   font-family: sans-serif;
+}
+
+img[src="https://www.tutorialspoint.com/nodejs/images/nodejs_concepts.jpg"] {
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   background-color: var(--img-background);
+}
