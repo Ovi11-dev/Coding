@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="Styles/markdown-style.css" />
+<link rel="stylesheet" type="text/css" href="Style/markdown-style.css" />
 
 # Node.js
 
