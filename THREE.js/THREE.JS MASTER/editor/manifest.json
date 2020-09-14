@@ -1,0 +1,14 @@
+{
+  "name": "Three.js Editor",
+  "short_name": "Three.js",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./images/C5D89799-26B1-494E-9D4E-735A4F18FAAC.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ]
+}
