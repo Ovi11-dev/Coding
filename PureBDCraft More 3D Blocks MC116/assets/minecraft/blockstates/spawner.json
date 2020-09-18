@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/spawner_cage" },
+			{ "model": "block/spawner_cage", "y": 90 },
+			{ "model": "block/spawner_cage2" },
+			{ "model": "block/spawner_cage3" },
+			{ "model": "block/spawner_cage3", "y": 90 }
+		]
+    }
+}

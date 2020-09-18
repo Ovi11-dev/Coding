@@ -1,0 +1,52 @@
+{
+    "variants": {
+        "age=0": [
+			{ "model": "block/pumpkin_stem_growth0" },
+			{ "model": "block/pumpkin_stem_growth0", "y": 90 },
+			{ "model": "block/pumpkin_stem_growth0", "y": 180 },
+			{ "model": "block/pumpkin_stem_growth0", "y": 270 }
+		],
+        "age=1": [
+			{ "model": "block/pumpkin_stem_growth1" },
+			{ "model": "block/pumpkin_stem_growth1", "y": 90 },
+			{ "model": "block/pumpkin_stem_growth1", "y": 180 },
+			{ "model": "block/pumpkin_stem_growth1", "y": 270 }
+		],
+        "age=2": [
+			{ "model": "block/pumpkin_stem_growth2" },
+			{ "model": "block/pumpkin_stem_growth2", "y": 90 },
+			{ "model": "block/pumpkin_stem_growth2", "y": 180 },
+			{ "model": "block/pumpkin_stem_growth2", "y": 270 }
+		],
+        "age=3": [
+			{ "model": "block/pumpkin_stem_growth3" },
+			{ "model": "block/pumpkin_stem_growth3", "y": 90 },
+			{ "model": "block/pumpkin_stem_growth3", "y": 180 },
+			{ "model": "block/pumpkin_stem_growth3", "y": 270 }
+		],
+        "age=4": [
+			{ "model": "block/pumpkin_stem_growth4" },
+			{ "model": "block/pumpkin_stem_growth4", "y": 90 },
+			{ "model": "block/pumpkin_stem_growth4", "y": 180 },
+			{ "model": "block/pumpkin_stem_growth4", "y": 270 }
+		],
+        "age=5": [
+			{ "model": "block/pumpkin_stem_growth5" },
+			{ "model": "block/pumpkin_stem_growth5", "y": 90 },
+			{ "model": "block/pumpkin_stem_growth5", "y": 180 },
+			{ "model": "block/pumpkin_stem_growth5", "y": 270 }
+		],
+        "age=6": [
+			{ "model": "block/pumpkin_stem_growth6" },
+			{ "model": "block/pumpkin_stem_growth6", "y": 90 },
+			{ "model": "block/pumpkin_stem_growth6", "y": 180 },
+			{ "model": "block/pumpkin_stem_growth6", "y": 270 }
+		],
+        "age=7": [
+			{ "model": "block/pumpkin_stem_growth7" },
+			{ "model": "block/pumpkin_stem_growth7", "y": 90 },
+			{ "model": "block/pumpkin_stem_growth7", "y": 180 },
+			{ "model": "block/pumpkin_stem_growth7", "y": 270 }
+		]
+    }
+}
