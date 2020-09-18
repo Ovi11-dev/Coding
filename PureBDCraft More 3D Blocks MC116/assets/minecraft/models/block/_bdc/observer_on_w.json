@@ -1,0 +1,9 @@
+{
+	"__comment": "Designed by Eskimojo14 with Cubik Studio - http://bdcraft.net",
+	"parent": "block/_bdc/observer_w",
+	"textures": {
+		"particle": "block/3d/_bdc/observer_front_on",
+		"front": "block/3d/_bdc/observer_front_on",
+		"back": "block/3d/observer_back_on"
+	}
+}
