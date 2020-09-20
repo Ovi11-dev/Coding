@@ -1,34 +1,14 @@
 <?xml version="1.0" encoding="Windows-1252"?>
-<VisualStudioProject
-	ProjectType="Visual C++"
-	Version="7.10"
-	Name="libtest"
-	ProjectGUID="{76424734-BC12-4472-ABE2-B5C7A4A0B733}"
-	Keyword="MakeFileProj">
+<VisualStudioProject ProjectType="Visual C++" Version="7.10" Name="libtest" ProjectGUID="{76424734-BC12-4472-ABE2-B5C7A4A0B733}" Keyword="MakeFileProj">
 	<Platforms>
-		<Platform
-			Name="Win32"/>
+		<Platform Name="Win32" />
 	</Platforms>
 	<Configurations>
-		<Configuration
-			Name="Debug|Win32"
-			OutputDirectory="Debug"
-			IntermediateDirectory="Debug"
-			ConfigurationType="0">
-			<Tool
-				Name="VCNMakeTool"
-				BuildCommandLine="nmake -f libtest.mak"
-				CleanCommandLine="del *.obj"/>
+		<Configuration Name="Debug|Win32" OutputDirectory="Debug" IntermediateDirectory="Debug" ConfigurationType="0">
+			<Tool Name="VCNMakeTool" BuildCommandLine="nmake -f libtest.mak" CleanCommandLine="del *.obj" />
 		</Configuration>
-		<Configuration
-			Name="Release|Win32"
-			OutputDirectory="Release"
-			IntermediateDirectory="Release"
-			ConfigurationType="0">
-			<Tool
-				Name="VCNMakeTool"
-				BuildCommandLine="nmake -f libtest.mak"
-				CleanCommandLine="del *.obj"/>
+		<Configuration Name="Release|Win32" OutputDirectory="Release" IntermediateDirectory="Release" ConfigurationType="0">
+			<Tool Name="VCNMakeTool" BuildCommandLine="nmake -f libtest.mak" CleanCommandLine="del *.obj" />
 		</Configuration>
 	</Configurations>
 	<References>
