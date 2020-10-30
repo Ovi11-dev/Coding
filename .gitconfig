@@ -1,0 +1,21 @@
+[core]
+  autocrlf = false
+  safecrlf = true
+  preloadindex = true
+  fscache = true
+  excludesfile = /Users/BOXEL-REBOUND/.gitignore_global
+  editor = code --wait
+[gc]
+  auto = 256
+[alias]
+  co = checkout
+  ci = commit
+  st = status
+  br = branch
+  hist = log --pretty=format:/"%Cgreen%h%Creset %Cred%ad%Creset\"
+  hist-unlimited = --pretty=format:/"%Cgreen%h%Creset %Cred%ad%Creset\"
+  standup = !git --pretty=format:/"%ad | %Cred%s%Creset\" --since=\"1 day ago"
+[color]
+  status = always
+[push]
+  default = upstream
