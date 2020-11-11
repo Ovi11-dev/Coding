@@ -8,7 +8,9 @@
 
 - I will do languages like:
 
-  - HTML: ```html <p>Hello, world!</p>```,
+  - HTML: ```html
+            <p>Hello, World!</p>
+			 ```
   - Javascript ```javascript window.onload => {// hello world!};```,
   - CSS: ```css body { margin: 0px; padding: 0px; }```,
   - C: ```c #include <stdio.h>```,
