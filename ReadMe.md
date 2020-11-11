@@ -8,14 +8,14 @@
 
 - I will do languages like:
 
-  - HTML: `<p>Hello, world!</p>`,
-  - Javascript `window.onload => {// hello world!};`,
-  - CSS: `body { margin: 0px; padding: 0px; }`,
-  - C: `#include <stdio.h>`,
-  - C# or CS or CSharp: `using System;`,
-  - C++ or CPP or CPlusPlus: `#iclude <iostream>; using namespace std;`,
-  - PHP: `<?php ?>`,
-  - Kotlin: `package 'something'    data class something()       fun alsosomething()`,
+  - HTML: ```html <p>Hello, world!</p>```,
+  - Javascript ```javascript window.onload => {// hello world!};```,
+  - CSS: ```css body { margin: 0px; padding: 0px; }```,
+  - C: ```c #include <stdio.h>```,
+  - C# or CS or CSharp: ```cs using System;```,
+  - C++ or CPP or CPlusPlus: ```cpp #iclude <iostream>; using namespace std;```,
+  - PHP: ```php <?php ?>```,
+  - Kotlin: ```kt package 'something'    data class something()       fun alsosomething()```,
   - Swift: `override func something() { }`,
   - SQL: `CREATE something; SELECT something;`,
   - MySQL: `CREATE TABLE 'something'; INSERT INTO 'something'(1, 2, 3); SELECT 'something';`,
@@ -31,8 +31,7 @@
   - Lisp: `(defun something)`,
   - SVG: `<svg viewBox="number number number number"></svg>`,
   - and Mongoose: `const mongoose = require('mongoose');`!
+  
+- I might also do misc like:
+  - .git 
 - - -
-
-# That's it for now!
-
-###### Bye!
